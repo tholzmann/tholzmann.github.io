@@ -1,4 +1,4 @@
-# poier.github.io
+# (Minimal) Personal Page 
 
-Minimal personal page based on the default/Minima Jekyll theme.
+Based on the default/Minima Jekyll theme.
 To provide some links to papers and additional material.
