@@ -10,18 +10,21 @@ at [Graz University of Technology](https://www.tugraz.at/home/),
 where I'm supervised by 
 [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
-This site mainly exists to provide links to papers/additional material 
-and since I expect this site to be more "durable" and easier 
+This site exists to provide links to papers/additional material 
+(since I expect this site to be more "durable" and easier 
 to handle than 
-[my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
+[my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/)).
+
+If you are interested in our work, a colaboration or a student project, 
+send me an e-mail (address below).
+
+---
 
 ## Publications
 
 **Learning Pose Specific Representations by Predicting Different Views**  
 Georg Poier, David Schinagl and Horst Bischof  
 To be published in *Proc. CVPR*, 2018.   
-[[Paper (pdf)]](https://poier.github.io/PreView/documents/poier2018cvpr_preview.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[Supplemental (pdf)]](https://poier.github.io/PreView/documents/poier2018cvpr_preview_supplemental.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Project page]](https://poier.github.io/PreView/) &nbsp;&nbsp;&nbsp;
 
 
