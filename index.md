@@ -72,7 +72,8 @@ In *Proc. Digital Heritage*, 2015.
 **Navigation Assistance and Guidance of Older Adults across Complex Public Spaces: the DALi Approach**  
 Luigi Palopoli, Antonis A. Argyros, Josef A. Birchbauer, Alessio Colombo, Daniele Fontanelli, Axel Legay, Andrea Garulli, Antonello Giannitrapani, David Macii, Federico Moro, Payam Nazemzadeh, Pashalis Padeleris, Roberto Passerone, Georg Poier, Domenico Prattichizzo, Tizar Rizano, Luca Rizzon, Stefano Scheggi and Sean Sedwards  
 *Intelligent Service Robotics* 8(2):77-92, 2015.  
-[[Paper (pdf)]](http://disi.unitn.it/~palopoli/publications/isr2015.pdf)
+[[Paper (pdf)]](http://disi.unitn.it/~palopoli/publications/isr2015.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Video (YouTube)]](https://www.youtube.com/watch?v=jr3Wrsvn944)
 
 **Hough Forests Revisited: An Approach to Multiple Instance Tracking from Multiple Cameras**  
 Georg Poier, Samuel Schulter, Sabine Sternig, Peter M. Roth and Horst Bischof  
