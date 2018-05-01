@@ -53,7 +53,7 @@ In *OAGM-ARW Joint Workshop*, 2016.
 Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Samuel Schulter, Christian Breiteneder and Horst Bischof  
 *ACM Journal on Computing and Cultural Heritage* 9(4):19:1-19:30, 2016.  
 [[Paper (ACM)]](http://dx.doi.org/10.1145/2950062) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[Project Page]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)
+[[Data]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)
 
 **Hybrid One-Shot 3D Hand Pose Estimation by Exploiting Uncertainties**  
 Georg Poier, Konstantinos Roditakis, Samuel Schulter, Damien Michel, Horst Bischof and Antonis A. Argyros.  
@@ -65,9 +65,10 @@ In *Proc. BMVC*, 2015.
 
 **Interactive Segmentation of Rock-Art in High-Resolution 3D Reconstructions**  
 Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Christian Breiteneder, Horst Bischof and Samuel Schulter  
-In *Proc. Digital Heritage*, 2015.  
+In *Proc. Digital Heritage*, 2015. **Best Paper Award**.  
 [[Paper (pdf)]](https://files.icg.tugraz.at/seafhttp/files/1cdf1fd4-199c-4007-b4af-4ecde372006c/zeppelzauer_dh15.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[Project Page]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)
+[[Data]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Video (vimeo)]](https://vimeo.com/154729160)
 
 **Navigation Assistance and Guidance of Older Adults across Complex Public Spaces: the DALi Approach**  
 Luigi Palopoli, Antonis A. Argyros, Josef A. Birchbauer, Alessio Colombo, Daniele Fontanelli, Axel Legay, Andrea Garulli, Antonello Giannitrapani, David Macii, Federico Moro, Payam Nazemzadeh, Pashalis Padeleris, Roberto Passerone, Georg Poier, Domenico Prattichizzo, Tizar Rizano, Luca Rizzon, Stefano Scheggi and Sean Sedwards  
