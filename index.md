@@ -59,14 +59,14 @@ Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Samuel Sc
 Georg Poier, Konstantinos Roditakis, Samuel Schulter, Damien Michel, Horst Bischof and Antonis A. Argyros.  
 In *Proc. BMVC*, 2015.  
 [[Paper (arXiv)]](https://arxiv.org/abs/1510.08039) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[Extended Abstract (pdf)]](https://files.icg.tugraz.at/seafhttp/files/7f0a290d-b144-41df-adb2-4148d251cef7/poier2015bmvc_handpose_OnePageAbstract.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[Slides (pdf)]](https://files.icg.tugraz.at/seafhttp/files/9cfc7707-a000-46db-9e0b-3086c89554bb/Slides_PoierBmvc15hape.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Extended Abstract (pdf)]](https://files.icg.tugraz.at/seafhttp/files/20baf570-a77e-4cff-8ed6-4fa01764f056/poier2015bmvc_handpose_OnePageAbstract.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Slides (pdf)]](https://files.icg.tugraz.at/seafhttp/files/04bcb193-4865-423c-b1ac-0bae5bf16100/Slides_PoierBmvc15hape.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Project Page]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/hybridhpe/)
 
 **Interactive Segmentation of Rock-Art in High-Resolution 3D Reconstructions**  
 Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Christian Breiteneder, Horst Bischof and Samuel Schulter  
 In *Proc. Digital Heritage*, 2015. **Best Paper Award**.  
-[[Paper (pdf)]](https://files.icg.tugraz.at/seafhttp/files/1cdf1fd4-199c-4007-b4af-4ecde372006c/zeppelzauer_dh15.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Paper (pdf)]](https://files.icg.tugraz.at/seafhttp/files/497262db-83e6-4c4e-9863-02e8b5dc782c/zeppelzauer_dh15.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Data]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Video (vimeo)]](https://vimeo.com/154729160)
 
