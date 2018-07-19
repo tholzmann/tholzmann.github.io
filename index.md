@@ -24,7 +24,7 @@ send me an e-mail (address below).
 
 **Learning Pose Specific Representations by Predicting Different Views**  
 Georg Poier, David Schinagl and Horst Bischof  
-To be published in *Proc. CVPR*, 2018.   
+In *Proc. CVPR*, 2018.   
 [[Project page]](https://poier.github.io/PreView/) &nbsp;&nbsp;&nbsp;
 
 
