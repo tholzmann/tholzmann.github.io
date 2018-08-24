@@ -4,19 +4,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I'm a PhD student and research assistant at the [Institute for 
+I'm a research assistant and PhD student at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
 where I'm supervised by 
 [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
 This site exists to provide links to papers/additional material 
-(since I expect this site to be more "durable" and easier 
-to handle than 
-[my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/)).
-
-If you are interested in our work, a colaboration or a student project, 
-send me an e-mail (address below).
+(as I expect this site to be more "durable" and easier 
+to handle than my official university page).
+Some information about other projects and open student projects can still
+be found at [my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
 
 ---
 
@@ -24,20 +22,25 @@ send me an e-mail (address below).
 
 **Learning Pose Specific Representations by Predicting Different Views**  
 Georg Poier, David Schinagl and Horst Bischof  
-In *Proc. CVPR*, 2018.   
-[[Project page]](https://poier.github.io/PreView/) &nbsp;&nbsp;&nbsp;
+In *Proc. CVPR*, 2018. (selected for **spotlight** presentation)   
+[[Paper (arXiv)]](https://arxiv.org/abs/1804.03390) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Project page]](https://poier.github.io/PreView/)
 
+**Being lazy at labelling for pose estimation**  
+Georg Poier, David Schinagl and Horst Bischof  
+In *Proc. AAPR*, 2018. (featured presentation)   
+[[Paper]](https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_27.pdf)
 
 **The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation**  
 Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, Martin Schaich, Giovanna Bellandi, Alberto Marretta and Horst Bischof  
-In *Proc. CBMI*, 2017.  
+In *Proc. CBMI*, 2017. (selected for **oral** presentation)  
 [[Paper (ACM)]](http://dx.doi.org/10.1145/3095713.3095719) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[More detailed Technical Report (pdf)]](https://files.icg.tugraz.at/f/130d433de1/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Project Page]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/)
 
 **Loss-Specific Training of Random Forests for Super-Resolution**  
 Alexander Grabner, Georg Poier, Michael Opitz, Samuel Schulter and Peter M. Roth  
-In *Proc. CVWW*, 2017.  
+In *Proc. CVWW*, 2017. (selected for **oral** presentation)  
 [[Paper (pdf)]](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/grabner_cvww17.pdf)
 
 **Grid Loss: Detecting Occluded Faces**  
@@ -57,7 +60,7 @@ Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Samuel Sc
 
 **Hybrid One-Shot 3D Hand Pose Estimation by Exploiting Uncertainties**  
 Georg Poier, Konstantinos Roditakis, Samuel Schulter, Damien Michel, Horst Bischof and Antonis A. Argyros.  
-In *Proc. BMVC*, 2015.  
+In *Proc. BMVC*, 2015. (selected for **oral** presentation)  
 [[Paper (arXiv)]](https://arxiv.org/abs/1510.08039) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Extended Abstract (pdf)]](https://files.icg.tugraz.at/seafhttp/files/20baf570-a77e-4cff-8ed6-4fa01764f056/poier2015bmvc_handpose_OnePageAbstract.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Slides (pdf)]](https://files.icg.tugraz.at/seafhttp/files/04bcb193-4865-423c-b1ac-0bae5bf16100/Slides_PoierBmvc15hape.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,7 +68,7 @@ In *Proc. BMVC*, 2015.
 
 **Interactive Segmentation of Rock-Art in High-Resolution 3D Reconstructions**  
 Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Christian Breiteneder, Horst Bischof and Samuel Schulter  
-In *Proc. Digital Heritage*, 2015. **Best Paper Award**.  
+In *Proc. Digital Heritage*, 2015. (selected for **oral** presentation; **Best Paper Award**)  
 [[Paper (pdf)]](https://files.icg.tugraz.at/seafhttp/files/497262db-83e6-4c4e-9863-02e8b5dc782c/zeppelzauer_dh15.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Data]](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Video (vimeo)]](https://vimeo.com/154729160)
