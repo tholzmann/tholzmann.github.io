@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+Link to  [my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
+
 I'm a research assistant and PhD student at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
@@ -11,14 +13,20 @@ where I'm supervised by
 [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
 This site exists to provide links to papers/additional material 
-(as I expect this site to be more "durable" and easier 
+(as this site should be more "durable" and easier 
 to handle than my official university page).
-Some information about other projects and open student projects can still
-be found at [my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
+For information about other projects and open student projects see 
+[my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
 
 ---
 
 ## Publications
+
+**MURAUER: Mapping Unlabeled Real Data for Label AUstERity**  
+Georg Poier, Michael Opitz, David Schinagl and Horst Bischof  
+In *Proc. WACV*, 2019. (to be published)  
+[[Paper (pdf)]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Project page]](https://poier.github.io/murauer/)
 
 **Learning Pose Specific Representations by Predicting Different Views**  
 Georg Poier, David Schinagl and Horst Bischof  
