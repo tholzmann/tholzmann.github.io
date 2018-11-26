@@ -25,7 +25,7 @@ For information about other projects and open student projects see
 **MURAUER: Mapping Unlabeled Real Data for Label AUstERity**  
 Georg Poier, Michael Opitz, David Schinagl and Horst Bischof  
 In *Proc. WACV*, 2019. (to be published)  
-[[Paper (pdf)]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[[Paper (arXiv)]](https://arxiv.org/abs/1811.09497) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Project page]](https://poier.github.io/murauer/)
 
 **Learning Pose Specific Representations by Predicting Different Views**  
