@@ -9,7 +9,7 @@ Link to  [my official university page](https://www.tugraz.at/institute/icg/resea
 I'm a research assistant and PhD student at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
-where I'm supervised by 
+where I'm working with 
 [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
 This site exists to provide links to papers/additional material 
@@ -24,7 +24,7 @@ For information about other projects and open student projects see
 
 **MURAUER: Mapping Unlabeled Real Data for Label AUstERity**  
 Georg Poier, Michael Opitz, David Schinagl and Horst Bischof  
-In *Proc. WACV*, 2019. (to be published)  
+In *Proc. WACV*, 2019.  
 [[Paper (arXiv)]](https://arxiv.org/abs/1811.09497) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Project page]](https://poier.github.io/murauer/)
 
