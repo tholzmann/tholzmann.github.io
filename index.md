@@ -4,19 +4,18 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Link to  [my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
 
-I'm a research assistant and PhD student at the [Institute for 
+I am currently working at [Vexcel Imaging](https://www.vexcel-imaging.com) as 
+Photogrammetric Computer Vision Specialist. Prior to that, I obtained my PhD in Computer Science at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
-where I'm working with 
-[Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
+where I was working in the group of 
+[Ass.Prof. Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)
+and [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
-Links to papers and additional material can be found below
-(as this site should be more "durable" and easier 
-to handle than my official university page).
-For information about other projects and open student projects see 
-[my official university page](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/people/poier/).
+This webside is intended as archive for my publications, as it should be more "durable" and more up-to-date than my [official university web page](https://www.tugraz.at/institutes/icg/research/team-fraundorfer/people/thomas-holzmann/).
+
+Links to papers and additional material can be found below.
 
 ---
 
