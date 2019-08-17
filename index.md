@@ -9,7 +9,7 @@ I am currently working at [Vexcel Imaging](https://www.vexcel-imaging.com) as
 Photogrammetric Computer Vision Specialist. Prior to that, I obtained my PhD in Computer Science at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
-where I was working in the group of 
+where I was advised by
 [Ass.Prof. Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)
 and [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
@@ -25,19 +25,30 @@ Links to papers and additional material can be found below.
     <tr>
       <td class="paperfigurecol"><img alt="Qualitative Results" width="250" src="images/wacv2019resultfigure.png"/></td>
       <td>
-        <b>MURAUER: Mapping Unlabeled Real Data for Label AUstERity</b><br />
-        Georg Poier, Michael Opitz, David Schinagl and Horst Bischof<br />
-        In <i>Proc. WACV</i>, 2019.<br />
+        <b>Image-Based Urban 3D Reconstruction</b><br />
+        Thomas Holzmann<br />
+        Dissertation, 2019.<br />
 		<a href="https://arxiv.org/abs/1811.09497">[Paper (arXiv)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://poier.github.io/murauer/">[Project]</a>
       </td>
     </tr>
     <tr>
+      <td><img alt="Segmentation Tool Screenshot" width="250" src="images/pitotiinteractivesegmentationtool_screenshot_w325.png" /></td>
+      <td>
+        <b>Deep 2.5D Vehicle Classification with Sparse SfM Depth Prior for Automated Toll Systems</b><br />
+        Georg Waltner, Michael Maurer, Thomas Holzmann, Patrick Ruprecht, Michael Opitz, Horst Possegger, Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>Proc. IEEE ITSC</i>, 2018. <br />
+		<a href="https://files.icg.tugraz.at/f/36cdbe7ae6f248918d9a/">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/">[Project]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="https://vimeo.com/154729160">[Video (vimeo)]</a>
+      </td>
+    </tr>
+    <tr>
       <td><img alt="Method sketch" width="250" src="images/cvpr2018methodsketch.png"/></td>
       <td>
-        <b>Learning Pose Specific Representations by Predicting Different Views</b><br />
-        Georg Poier, David Schinagl and Horst Bischof<br />
-        In <i>Proc. CVPR</i>, 2018. (selected for <b>spotlight</b> presentation)<br />
+        <b>Semantically Aware Urban 3D Reconstruction with Plane-Based Regularization</b><br />
+        Thomas Holzmann, Michael Maurer, Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>Proc. ECCV</i>, 2018. <br />
 		<a href="https://arxiv.org/abs/1804.03390">[Paper (arXiv)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://poier.github.io/PreView/">[Project]</a>
       </td>
@@ -45,19 +56,27 @@ Links to papers and additional material can be found below.
     <tr>
       <td></td>
       <td>
-        <b>Being lazy at labelling for pose estimation</b><br />
-        Georg Poier, David Schinagl and Horst Bischof<br />
-        In <i>Proc. AAPR</i>, 2018. (featured presentation)<br />
+        <b>Plane-based Surface Regularization for Urban 3D Reconstruction</b><br />
+        Thomas Holzmann, Martin R. Oswald, Marc Pollefeys, Friedrich Fraundorfer and Horst Bischoff<br />
+        In <i>Proc. BMVC</i>, 2017. <br />
 		<a href="https://workshops.aapr.at/wp-content/uploads/Proceedings/2018/OAGM_2018_paper_27.pdf">[Paper]</a>
+      </td>
+    </tr>
+    <tr>
+      <td><!---<img alt="Result comparision" width="250" src="images/cvww2017grabner_motivationfigure_gt_ours_w500.png"/>---></td>
+      <td>
+        <b>A Detailed Description of Direct Stereo Visual Odometry Based on Lines</b><br />
+        Thomas Holzmann, Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>CCIS</i>, 2017. <br />
+		<a href="https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/grabner_cvww17.pdf">[Paper (pdf)]</a>
       </td>
     </tr>
     <tr>
       <td><img alt="Dataset samples" width="250" src="images/3dpitotidatasamples.jpg"/></td>
       <td>
-        <b>The 3D-Pitoti Dataset: A Dataset for high-resolution 3D Surface Segmentation</b><br />
-        Georg Poier, Markus Seidl, Matthias Zeppelzauer, Christian Reinbacher, 
-		Martin Schaich, Giovanna Bellandi, Alberto Marretta and Horst Bischof<br />
-        In <i>Proc. CBMI</i>, 2017. (selected for <b>oral</b> presentation)<br />
+        <b>Regularized 3D Modeling from Noisy Building Reconstructions</b><br />
+        Thomas Holzmann, Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>Proc. 3DV</i>, 2016. <br />
 		<a href="http://dx.doi.org/10.1145/3095713.3095719">[Paper (ACM DL)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://files.icg.tugraz.at/f/130d433de1/">[More detailed Tech. Report (pdf)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://files.icg.tugraz.at/f/affa3d1b2d/">[Slides]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,50 +84,28 @@ Links to papers and additional material can be found below.
       </td>
     </tr>
     <tr>
-      <td><!---<img alt="Result comparision" width="250" src="images/cvww2017grabner_motivationfigure_gt_ours_w500.png"/>---></td>
-      <td>
-        <b>Loss-Specific Training of Random Forests for Super-Resolution</b><br />
-        Alexander Grabner, Georg Poier, Michael Opitz, Samuel Schulter and Peter M. Roth<br />
-        In <i>Proc. CVWW</i>, 2017. (selected for <b>oral</b> presentation)<br />
-		<a href="https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/grabner_cvww17.pdf">[Paper (pdf)]</a>
-      </td>
-    </tr>
-    <tr>
       <td><!---<img alt="Motivation figure for the method" width="250" src="images/eccv2016opitz_motivationfigure_ours.png"/>---></td>
       <td>
-        <b>Grid Loss: Detecting Occluded Faces</b><br />
-        Michael Opitz, Georg Waltner, Georg Poier, Horst Possegger and Horst Bischof<br />
-        In <i>Proc. ECCV</i>, 2016.<br />
+        <b>Direct Stereo Visual Odometry Based on Lines</b><br />
+        Thomas Holzmann, Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>Proc. VISAPP</i>, 2016. <b>Best Paper Award<br />
 		<a href="https://arxiv.org/abs/1609.00129">[Paper (arXiv)]</a>
       </td>
     </tr>
     <tr>
       <td></td>
       <td>
-        <b>The 3D-PITOTI Project with a Focus on Multi-Scale 3D Reconstruction using Semi-Autonomous UAVs</b><br />
-        Christian Mostegel, Georg Poier, Christian Reinbacher, Manuel Hofer, 
-		Friedrich Fraundorfer, Horst Bischof, Thomas Höll, Gert Holler and Axel Pinz<br />
-        In <i>Proc. OAGM-ARW Joint Workshop</i>, 2016.
+        <b>Graz Griffins’ Solution to the European Robotics Challenges 2014</b><br />
+        Jesus Pestana Puerta, Rudold Prettenthaler, Thomas Holzmann, Daniel Muschick, Christian Mostegel, Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>Proc. ARW</i>, 2016.
       </td>
     </tr>
-    <tr>
-      <td></td>
-      <td>
-        <b>Interactive 3D Segmentation of Rock-Art by Enhanced Depth Maps and Gradient Preserving Regularization</b><br />
-        Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, 
-		Samuel Schulter, Christian Breiteneder and Horst Bischof<br />
-        <i>ACM Journal on Computing and Cultural Heritage</i>, 9(4):19:1-19:30, 2016.<br />
-		<a href="http://dx.doi.org/10.1145/2950062">[Paper (ACM DL)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/">[Project]</a>
-      </td>
-    </tr>
-    <tr>
+       <tr>
       <td><img alt="Illustration of the method" width="250" src="images/bmvc2015motivationfigure.png"/></td>
       <td>
-        <b>Hybrid One-Shot 3D Hand Pose Estimation by Exploiting Uncertainties</b><br />
-        Georg Poier, Konstantinos Roditakis, Samuel Schulter, Damien Michel, 
-		Horst Bischof and Antonis A. Argyros<br />
-        In <i>Proc. BMVC</i>, 2015. (selected for <b>oral</b> presentation)<br />
+        <b>Performance Evaluation of Vision-Based Algorithms for MAVs</b><br />
+        Thomas Holzmann, Rudold Prettenthaler, Jesus Pestana Puerta,  Daniel Muschick, Christian Mostegel, Gottfried Graber,  Friedrich Fraundorfer and Horst Bischof<br />
+        In <i>Proc. AAPR</i>, 2015. <br />
 		<a href="https://arxiv.org/abs/1510.08039">[Paper (arXiv)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://files.icg.tugraz.at/f/94fb10b530/">[Ext. Abstract]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://files.icg.tugraz.at/f/f83335969c/">[Slides]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -116,68 +113,16 @@ Links to papers and additional material can be found below.
       </td>
     </tr>
     <tr>
-      <td><img alt="Segmentation Tool Screenshot" width="250" src="images/pitotiinteractivesegmentationtool_screenshot_w325.png" /></td>
-      <td>
-        <b>Interactive Segmentation of Rock-Art in High-Resolution 3D Reconstructions</b><br />
-        Matthias Zeppelzauer, Georg Poier, Markus Seidl, Christian Reinbacher, Christian Breiteneder, Horst Bischof and Samuel Schulter<br />
-        In <i>Proc. Digital Heritage</i>, 2015. (selected for <b>oral</b> presentation; <b>Best Paper Award</b>)<br />
-		<a href="https://files.icg.tugraz.at/f/36cdbe7ae6f248918d9a/">[Paper]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/3dpitotidataset/">[Project]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://vimeo.com/154729160">[Video (vimeo)]</a>
-      </td>
-    </tr>
-    <tr>
       <td></td>
       <td>
-        <b>Navigation Assistance and Guidance of Older Adults across Complex Public Spaces: the DALi Approach</b><br />
-        Luigi Palopoli, Antonis A. Argyros, Josef A. Birchbauer, Alessio Colombo, 
-		Daniele Fontanelli, Axel Legay, Andrea Garulli, Antonello Giannitrapani, 
-		David Macii, Federico Moro, Payam Nazemzadeh, Pashalis Padeleris, 
-		Roberto Passerone, Georg Poier, Domenico Prattichizzo, Tizar Rizano, 
-		Luca Rizzon, Stefano Scheggi and Sean Sedwards<br />
-        <i>Intelligent Service Robotics</i> 8(2):77-92, 2015.<br />
+        <b>Geometric Abstraction from Noisy Image-Based 3D Reconstructions</b><br />
+        Thomas Holzmann, Christof Hoppe, Stefan Kluckner and Horst Bischof<br />
+	      In <i>Proc. AAPR</i>, 2014. <b> Best Paper Prize</b><br />
 		<a href="http://disi.unitn.it/~palopoli/publications/isr2015.pdf">[Paper (pdf)]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="https://www.youtube.com/watch?v=jr3Wrsvn944">[Video (YouTube)]</a>
       </td>
     </tr>
-    <tr>
-      <td><img alt="Example result from each view and on ground plane" width="250" src="images/gcpr2014resultsample_w500.png"/></td>
-      <td>
-        <b>Hough Forests Revisited: An Approach to Multiple Instance Tracking from Multiple Cameras</b><br />
-        Georg Poier, Samuel Schulter, Sabine Sternig, Peter M. Roth and Horst Bischof<br />
-        In <i>Proc. GCPR</i>, 2014.<br />
-		<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.644.9738&rep=rep1&type=pdf">[Paper (pdf)]</a>
-      </td>
-    </tr>
-    <tr>
-      <td><img alt="Illustration of the intermediate results" width="250" src="images/cvww2012motivationfigure.png" /></td>
-      <td>
-        <b>Text Localization in Unconstrained Images</b><br />
-        Georg Poier, Jürgen Hatzl, Stefan Kluckner, Peter M. Roth and Horst Bischof<br />
-        In <i>Proc. CVWW</i>, 2012.<br />
-		<a href="https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Documents/lrs/pubs/poier_cvww_12.pdf">[Paper (pdf)]</a>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <b>AVSS 2011 Demo Session: OUTLIER – Online Learning and Visualization of Unusual Events</b><br />
-        Josef A. Birchbauer, Samuel Schulter, René Schuster, Georg Poier, 
-		Martin Winter, Peter Schallauer, Peter M. Roth and Horst Bischof<br />
-        In <i>Proc. AVSS</i>, 2011.<br />
-		<a href="https://www.computer.org/csdl/proceedings/avss/2011/0844/00/06027403.pdf">[Ext. Abstract (pdf)]</a>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <b>Multi-Cue Learning and Visualization of Unusual Events</b><br />
-        René Schuster, Samuel Schulter, Georg Poier, Martin Hirzer, Josef A. Birchbauer, 
-		Peter M. Roth, Horst Bischof, Martin Winter and Peter Schallauer<br />
-        In <i>Proc. ICCV Workshops</i>, 2011.<br />
-		<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6130485">[Paper (pdf)]</a>
-      </td>
-    </tr>
+    
   </table>
 
 <!---
