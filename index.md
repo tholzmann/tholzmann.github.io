@@ -34,47 +34,47 @@ In *Proc. IEEE ITSC*, 2018. <br/>
 
 **Semantically Aware Urban 3D Reconstruction with Plane-Based Regularization**  
 Thomas Holzmann, Michael Maurer, Friedrich Fraundorfer and Horst Bischof
-In *Proc. ECCV*, 2018.
+In *Proc. ECCV*, 2018. <br/>
 [[Paper]](http://spinnt.net/papers/holzmann18eccv.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Suppl. Material]](http://spinnt.net/papers/holzmann18eccv-supplementary.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Video (Youtube)]](https://www.youtube.com/watch?v=NuWsYmTWnqw)
 
 **Plane-based Surface Regularization for Urban 3D Reconstruction**  
 Thomas Holzmann, Martin R. Oswald, Marc Pollefeys, Friedrich Fraundorfer and Horst Bischof
-In *Proc. BMVC*, 2017.
+In *Proc. BMVC*, 2017. <br/>
 [[Paper]](http://spinnt.net/papers/holzmann17urban.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Suppl. Material]](http://spinnt.net/papers/holzmann17urbal_supp.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Video (Youtube)]](https://www.youtube.com/watch?v=6UMxbIgL8gk)
 
 **A Detailed Description of Direct Stereo Visual Odometry Based on Lines**  
 Thomas Holzmann, Friedrich Fraundorfer and Horst Bischof
-In *CCIS*, 2017.
+In *CCIS*, 2017. <br/>
 [[Paper]](http://spinnt.net/papers/line_vo_ccis.pdf) 
 
 **Regularized 3D Modeling from Noisy Building Reconstructions**  
 Thomas Holzmann, Friedrich Fraundorfer and Horst Bischof
-In *Proc. 3DV*, 2016.
+In *Proc. 3DV*, 2016. <br/>
 [[Paper]](http://spinnt.net/papers/geom_reconstruction_3dv16.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Video (Youtube)]](https://www.youtube.com/watch?v=k_thbSUsEew)
 
 **Direct Stereo Visual Odometry Based on Lines**  
 Thomas Holzmann, Friedrich Fraundorfer and Horst Bischof
-In *Proc. VISAPP*, 2016. **Best Paper Award**
+In *Proc. VISAPP*, 2016. **Best Paper Award** <br/>
 [[Paper]](http://spinnt.net/papers/line_vo_visapp16.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Video (Youtube)]](https://www.youtube.com/watch?v=C8zExsoIs5A)
 
 **Graz Griffins’ Solution to the European Robotics Challenges 2014**  
 Jesus Pestana Puerta, Rudold Prettenthaler, Thomas Holzmann, Daniel Muschick, Christian Mostegel, Friedrich Fraundorfer and Horst Bischof
-In *Proc. ARW*, 2015. 
+In *Proc. ARW*, 2015.  <br/>
 [[Paper]](http://spinnt.net/papers/arw15_pestana.pdf) 
 
 **Performance Evaluation of Vision-Based Algorithms for MAVs**  
 Thomas Holzmann, Rudold Prettenthaler, Jesus Pestana Puerta,  Daniel Muschick, Christian Mostegel, Gottfried Graber,  Friedrich Fraundorfer and Horst Bischof
-In *Proc. AAPR*, 2015. 
+In *Proc. AAPR*, 2015.  <br/>
 [[Paper]](http://spinnt.net/papers/aapr15_holzmann.pdf) 
 
 **Geometric Abstraction from Noisy Image-Based 3D Reconstructions**  
 Thomas Holzmann, Christof Hoppe, Stefan Kluckner and Horst Bischof
-In *Proc. AAPR*, 2014. **Best Paper Prize** 
+In *Proc. AAPR*, 2014. **Best Paper Prize**  <br/>
 [[Paper]](http://spinnt.net/papers/aapr14_holzmann.pdf) 
 
