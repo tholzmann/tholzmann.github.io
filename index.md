@@ -13,7 +13,7 @@ where I was advised by
 [Ass.Prof. Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)
 and [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
-This webside is intended as archive for my publications, as it should be more "durable" and more up-to-date than my [official university web page](https://www.tugraz.at/institutes/icg/research/team-fraundorfer/people/thomas-holzmann/).
+This webside is intended as archive for my publications, as it should be more "durable" and more up-to-date than my prior [official university web page](https://www.tugraz.at/institutes/icg/research/team-fraundorfer/people/thomas-holzmann/), which is not maintained anymore.
 
 Links to papers and additional material can be found below.
 
