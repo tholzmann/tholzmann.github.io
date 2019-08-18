@@ -29,7 +29,7 @@ Thomas Holzmann
 
 **Deep 2.5D Vehicle Classification with Sparse SfM Depth Prior for Automated Toll Systems**  
 Georg Waltner, Michael Maurer, Thomas Holzmann, Patrick Ruprecht, Michael Opitz, Horst Possegger, Friedrich Fraundorfer and Horst Bischof
-In *Proc. IEEE ITSC*, 2018.
+In *Proc. IEEE ITSC*, 2018. <br/>
 [[Paper (arXiv)]](https://arxiv.org/abs/1805.03511) 
 
 **Semantically Aware Urban 3D Reconstruction with Plane-Based Regularization**  
