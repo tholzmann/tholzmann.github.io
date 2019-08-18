@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am currently working at [Vexcel Imaging](https://www.vexcel-imaging.com) as 
+Welcome! I recently joined [Vexcel Imaging](https://www.vexcel-imaging.com) as a 
 Photogrammetric Computer Vision Specialist. Prior to that, I obtained my PhD in Computer Science at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
