@@ -75,7 +75,7 @@ In *Proc. AAPR*, 2015.  <br/>
 [[Paper]](http://spinnt.net/papers/aapr15_holzmann.pdf) 
 
 **Geometric Abstraction from Noisy Image-Based 3D Reconstructions**  
-Thomas Holzmann, Christof Hoppe, Stefan Kluckner and Horst Bischof
+Thomas Holzmann, Christof Hoppe, Stefan Kluckner and Horst Bischof <br/>
 In *Proc. AAPR*, 2014. <br/>
 **Best Paper Prize**  <br/>
 [[Paper]](http://spinnt.net/papers/aapr14_holzmann.pdf) 
