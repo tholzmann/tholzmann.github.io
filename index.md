@@ -5,15 +5,19 @@
 layout: home
 ---
 
-Welcome! I recently joined [Vexcel Imaging](https://www.vexcel-imaging.com) as a 
-Photogrammetric Computer Vision Specialist. Prior to that, I obtained my PhD in Computer Science at the [Institute for 
+Welcome!
+
+This webside has actually not a lot of content and is mainly intended as archive for my publications, 
+as it should be more "durable" and more up-to-date than my prior [official university web page](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/thomas-holzmann/), which is not maintained anymore.
+
+Most of of the publications listed here were published during my time as PhD student at the [Institute for 
 Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home/) 
 at [Graz University of Technology](https://www.tugraz.at/home/),
 where I was advised by
 [Ass.Prof. Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)
 and [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
-This webside is intended as archive for my publications, as it should be more "durable" and more up-to-date than my prior [official university web page](https://www.tugraz.at/institutes/icg/research/team-fraundorfer/people/thomas-holzmann/), which is not maintained anymore.
+More recently I switched to the private sector and, hence, my time for publishing was limited. However, I hope some papers will still be added to this list in future!
 
 Links to papers and additional material can be found below.
 
