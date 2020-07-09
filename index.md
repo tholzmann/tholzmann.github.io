@@ -7,7 +7,7 @@ layout: home
 
 Welcome!
 
-This webside has actually not a lot of content and is mainly intended as archive for my publications, 
+This webside has actually (not) a lot of content and is mainly intended as archive for my publications, 
 as it should be more "durable" and more up-to-date than my prior [official university web page](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/thomas-holzmann/), which is not maintained anymore.
 
 Most of of the publications listed here were published during my time as PhD student at the [Institute for 
