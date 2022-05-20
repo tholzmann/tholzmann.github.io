@@ -17,7 +17,7 @@ where I was advised by
 [Ass.Prof. Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)
 and [Prof. Horst Bischof](https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/).
 
-More recently I switched to the private sector and, hence, my time for publishing was limited. However, I hope some papers will still be added to this list in future!
+More recently I switched to the private sector and, hence, my time for publishing was limited. However, I hope some papers will still be added to this list in future! To find out more about my work I'm currently doing, please have a look at my [Linkedin page](https://www.linkedin.com/in/thomas-holzmann-a1384812a/)
 
 Links to papers and additional material can be found below.
 
