@@ -25,6 +25,9 @@ Links to papers and additional material can be found below.
 
 ## Publications
 
+**Multi-view height estimation from satellite images**
+C. Poglitsch, T. Holzmann, S. Habenschuss, C. Pirchheim, S. Bazrafkan
+US patent: US11776148B1, assigned to Blackshark AI GmbH, 2023
 
 **Image-Based Urban 3D Reconstruction**  
 Thomas Holzmann <br/>
